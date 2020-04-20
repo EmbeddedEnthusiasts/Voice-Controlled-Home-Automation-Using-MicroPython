@@ -17,14 +17,14 @@ def do_connect():
     if not sta_if.isconnected():
         print('connecting to network...')
         sta_if.active(True)
-        sta_if.connect('Aavishkar', 'rohit$276')
+        sta_if.connect('Your_WiFi_Name', 'Your_WiFi_Password')
         while not sta_if.isconnected():
             pass
     print('network config:', sta_if.ifconfig())
 
    
 do_connect()
-host="192.168.0.109"
+host="Put_Server_IP_address_here"
 port=9999
 
 s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
