@@ -9,6 +9,8 @@ Pre-requisites required are:
 3. Basic knowledge of Few Components like NodeMCU(Esp8266), Relays, etc.
 4. Basic Knowledge of Linux Commands.
 
+In Linux terminal you can clone/download this repository by typing "git clone https://github.com/EmbeddedEnthusiasts/Voice-Controlled-Home-Automation"
+
 To follow the steps please view the PDF in this Repository.
 
 For any queries, post your issues here or mail us at embeddedenthusiasts@gmail.com
