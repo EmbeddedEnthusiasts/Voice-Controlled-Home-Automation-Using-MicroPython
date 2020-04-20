@@ -2,8 +2,8 @@ import socket
 from machine import Pin
 import network 
 
-pin=Pin(4,Pin.OUT)
-pin1=Pin(0,Pin.OUT)  
+pin=Pin(16,Pin.OUT)
+pin1=Pin(5,Pin.OUT)  
 pin.on()
 pin1.on()
 mes1="fan turned on"
