@@ -7,6 +7,7 @@ Pre-requisites required are:
 1. Basic knowledge of Python3.
 2. Basic knowledge of MicroPython.
 3. Basic knowledge of Few Components like NodeMCU(Esp8266), Relays, etc.
+4. Basic Knowledge of Linux Commands.
 
 To follow the steps please view the PDF in this Repository.
 
