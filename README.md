@@ -11,6 +11,6 @@ Pre-requisites required are:
 
 In Linux terminal you can clone/download this repository by typing "git clone https://github.com/EmbeddedEnthusiasts/Voice-Controlled-Home-Automation"
 
-To follow the steps please view the PDF in this Repository.
+To follow the steps please view/download the PDF in this Repository.
 
 For any queries, post your issues here or mail us at embeddedenthusiasts@gmail.com
