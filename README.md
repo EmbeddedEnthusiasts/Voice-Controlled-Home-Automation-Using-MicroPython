@@ -12,6 +12,6 @@ Pre-requisites required are:
 In Linux terminal you can clone/download this repository by typing "git clone https://github.com/EmbeddedEnthusiasts/Voice-Controlled-Home-Automation"
 
 To follow the steps please view/download the PDF in this Repository.
-For step-bystep recorded procedure to program NodeMCU on Linux Click the following link: https://asciinema.org/a/lKgCIha7DgrkkYKGt0be9pQoA
+For step-bystep recorded procedure to program NodeMCU on Linux Click the following link: https://asciinema.org/a/lKgCIha7DgrkkYKGt0be9pQoA (Any time you see a command you'd like to try in your own terminal just pause the player and copy-paste the content you want.)
 
 For any queries, post your issues here or mail us at embeddedenthusiasts@gmail.com
