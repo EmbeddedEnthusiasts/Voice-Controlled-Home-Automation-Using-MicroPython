@@ -3,6 +3,10 @@ Have you ever wondered how devices like Alexa, Google Home, control your home ju
 
 Well here's a simple project for you to understand just that. Feel free to make use of our code and step-by-step guide to build your own Voice Controlled Home Automation System from scratch. 
 
+Explainatory Videos: 
+Video1: https://www.youtube.com/watch?v=7wOHrem40cE&t
+Video2: https://www.youtube.com/watch?v=tPlyqCsIkog&t
+
 Pre-requisites required are:
 1. Basic knowledge of Python3.
 2. Basic knowledge of MicroPython.
