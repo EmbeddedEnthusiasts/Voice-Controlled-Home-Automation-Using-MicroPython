@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+		EMBEDDED ENTHUSIASTS
+		</title>
+		<style type="text/css">
+			p{
+				color:red;
+				font-size:20px; 
+
+			 }
+			 #green{
+			 	color:mediumblue;
+			 	font-size:30px;
+			 	text-align: center;
+
+			 }
+			 ul{
+
+			 	color:lime;
+			 	font-size: 20px;
+			 }
+			 div{
+
+			 	color: red;
+			 	font-size: 20px;
+			 }
+			 ol{
+
+			 	color:lime;
+			 	font-size: 20px;
+			 }
+
+			 h1{
+			 	color:mediumblue;
+			 	font-size:30px;
+			 }
+
+			 a{
+			 	color:lime;
+			 	font-size:20px;
+			 }
+			 html{
+
+			 	background-color: black;
+			 }
+			 #warning{
+			 	font-weight: bold;
+			 }
+			 #instructions li{
+
+			 		list-style: none;
+
+			 }
+			section.instructions a:link , section.instructions a:visited{
+
+			 	text-decoration: none;
+			 	background-color: yellow;
+			 	border: 1px solid blue;
+			 	color: blue;
+			 	text-align: center;
+			 	width:200px;
+			 	display: block;
+			 	margin-bottom:2px;
+			 }
+
+			 section.instructions a:hover,section.instructions a:active{
+			 	background-color: red;
+			 	color:lime;
+
+
+			 }
+ 
+		</style>
+	</head>
+	<body>
+		<H1 id="green">VOICE CONTROLLED HOME AUTOMATION SYSTEM USING MICROPYTHON</H1>
+
+		<H1>Content</H1>
+		<section id="top"> 
+			<ol>
+				<li><a href="#about_the_project" title="about project">Project Description</a></li>
+				<li><a href="#components" title="components needed">Components Required</a></li>
+				<li><a href="#circuit_diagram" title="circuit">Connections</a></li>	
+				<li><a href="#instructions" title="Instructions">Instructions</a></li>
+			</ol>
+		</section>
+
+		<section id="about_the_project">
+			<h1> Project Description</h1>
+
+				<p>Have you ever wondered how devices like Alexa, Google Home, control your home just by saying few words? Well here's a simple project for you to understand just that. This project makes use of the concepts of TCP-IP sockets for transfering voice commands from a server to a clent. The server could be your laptop or a raspberry pi or any devise which supports linux. The client is a microcontroller which has wifi connecting capabilities and supports micropython.Pre-requisites required are: 
+				<ul>					
+					<li>Basic knowledge of Python3.</li>
+					<li>Basic knowledge of MicroPython.</li>
+					<li>Basic knowledge of Few Components like NodeMCU(Esp8266), Relays, etc.</li>
+					<li>Basic Knowledge of Linux Commands.</li>
+				</ul>
+
+				</p>
+			
+		</section>
+
+		<section id="components">
+			<H1>Components Required</H1>
+			<ul>
+				<li>Laptop or Raspberry Pi with Python 3 installed</li>
+				<li>Relays</li>
+				<li>Esp8266 (nodeMCU) flashed with micropython</li>
+				<li>Jumper wires(F-F)</li>
+				<li>power supply (preferably a 9 volt battery)</li>
+			</ul>
+		</section>
+
+		<section id="circuit_diagram">
+			<h1>Circuit Diagram (Connections)</h1>
+
+
+			<img src="Circuit_Diagram.jpeg" width="500" height="400" alt="connections">
+			<div id="warning">Note: Please do this under adult supervision if you are less than 15 years of age since u are operating with AC mains.</div>
+
+		</section>
+
+		<section class="instructions" id="instructions">
+			<H1>Instructions</H1>
+
+			<div>For a detailed explainations about how to do this project please refer to our github repository. The following links have been added for your reference:</div>
+
+			<ul>
+				<li><a href=https://github.com/EmbeddedEnthusiasts/Voice-Controlled-Home-Automation-Using-MicroPython" target="_blank" title="github repository of the project">Github Repository</a></li>
+				<li><a href="https://www.youtube.com/watch?v=7wOHrem40cE&t" target="_blank" title="video 1">Video 1</a></li>
+				<li><a href="https://www.youtube.com/watch?v=tPlyqCsIkog&t" target="_blank" title="video 2">Video 2</a></li>
+
+			</ul>
+		</section>
+	</body>
+</html>
