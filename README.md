@@ -13,7 +13,7 @@ Video2: https://www.youtube.com/watch?v=tPlyqCsIkog&t
 3. Basic knowledge of Few Components like NodeMCU(Esp8266), Relays, etc.
 4. Basic Knowledge of Linux Commands.
 
-In Linux terminal you can clone/download this repository by typing "git clone https://github.com/EmbeddedEnthusiasts/Voice-Controlled-Home-Automation"
+In Linux terminal you can clone/download this repository by typing "git clone https://github.com/EmbeddedEnthusiasts/Voice-Controlled-Home-Automation-Using-MicroPython.git"
 
 To follow the steps please view/download the PDF in this Repository.
 
